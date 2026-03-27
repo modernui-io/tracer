@@ -7,7 +7,6 @@ models/
 # Python
 __pycache__/
 *.pyc
-.env
 venv/
 
 # Node
@@ -22,3 +21,4 @@ out/
 
 # Misc
 .DS_Store
+config.bat

@@ -174,4 +174,4 @@ Built for the **MedGemma Impact Challenge** (Google, February 2026).
 Uses fine-tuned MedGemma 1.5 (4B-it) as the core extraction model.
 
 ## License
-Apache 2.0 — see [LICENSE](LICENSE) for details.
+CC BY 4.0 — see [LICENSE](LICENSE) for details.
